@@ -12,7 +12,12 @@ p {
 h2{
     font-family: verdana;
     font-size: 16px;
+    background-color: lightblue;
 }
 body {
   background-color: lightgrey;
 }
+ul{
+    border: solid 2px #CC00AA;
+}
+/* MEOW*/
